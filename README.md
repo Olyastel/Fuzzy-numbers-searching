@@ -21,3 +21,16 @@ git clone https://github.com/Olyastel/Fuzzy-numbers-searching
 
 # Install dependencies
 pip install numpy pandas pillow scikit-image
+```
+
+## QR-код для быстрого доступа
+
+<div align="center">
+
+### Отсканируйте чтобы открыть на телефоне
+
+![QR Code](https://api.qrserver.com/v1/create-qr-code/?size=200x200&data=https://github.com/Olyastel/Fuzzy-numbers-searching)
+
+[📎 https://github.com/Olyastel/Fuzzy-numbers-searching](https://github.com/Olyastel/Fuzzy-numbers-searching)
+
+</div>
