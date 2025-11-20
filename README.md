@@ -12,6 +12,11 @@ In large-scale fleet management, identifying scooters from blurred or damaged nu
 - **Character recognition support**: generates similarity matrices for OCR post-processing
 - **Configurable thresholding**: flexible similarity thresholds for different accuracy requirements
 - **Batch processing**: efficient processing of multiple character images
+- **Visual similarity integration**: uses pre-computed character similarity matrix for intelligent substitutions
+- **Priority-based search**: explores most likely character combinations first using heap optimization
+- **Regex pattern matching**: converts fuzzy queries into efficient regular expressions
+- **Configurable limits**: time and result count constraints for real-time applications
+- **Benchmarking tools**: built-in performance measurement and test data generation
 
 ## Installation
 
