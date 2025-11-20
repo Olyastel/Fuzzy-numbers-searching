@@ -8,10 +8,10 @@ In large-scale fleet management, identifying scooters from blurred or damaged nu
 
 ## Features
 
-- **Image similarity analysis**: Uses Structural Similarity Index (SSIM) to compare character images
-- **Character recognition support**: Generates similarity matrices for OCR post-processing
-- **Configurable thresholding**: Flexible similarity thresholds for different accuracy requirements
-- **Batch processing**: Efficient processing of multiple character images
+- **Image similarity analysis**: uses Structural Similarity Index (SSIM) to compare character images
+- **Character recognition support**: generates similarity matrices for OCR post-processing
+- **Configurable thresholding**: flexible similarity thresholds for different accuracy requirements
+- **Batch processing**: efficient processing of multiple character images
 
 ## Installation
 
@@ -20,7 +20,7 @@ In large-scale fleet management, identifying scooters from blurred or damaged nu
 git clone https://github.com/Olyastel/Fuzzy-numbers-searching
 
 # Install dependencies
-pip install numpy pandas pillow scikit-image
+pip install numpy pandas pillow scikit-image matplotlib
 ```
 
 ## QR-код для быстрого доступа
