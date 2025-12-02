@@ -28,11 +28,11 @@ git clone https://github.com/Olyastel/Fuzzy-numbers-searching
 pip install numpy pandas pillow scikit-image matplotlib
 ```
 
-## QR-код для быстрого доступа
+## QR code for quick access
 
 <div align="center">
 
-### Отсканируйте, чтобы открыть на телефоне
+### Scan it to open it on your phone
 
 ![QR Code](https://api.qrserver.com/v1/create-qr-code/?size=200x200&data=https://github.com/Olyastel/Fuzzy-numbers-searching)
 
